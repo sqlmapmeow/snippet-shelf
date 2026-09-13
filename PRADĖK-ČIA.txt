@@ -1,0 +1,16 @@
+SNIPPET SHELF — VIL / sqlmapmeow
+
+1. Išskleisk ZIP.
+2. Greitai peržiūrai atidaryk index.html naršyklėje.
+3. Patikimesniam išsaugojimui šiame aplanke paleisk: npm start
+   Reikia Node.js 20 arba naujesnio. Atidaryk http://127.0.0.1:4174
+   npm install nereikia.
+4. GitHub sukurk naują viešą snippet-shelf repozitoriją.
+5. Įkelk šio aplanko TURINĮ: index.html turi būti repozitorijos šaknyje.
+6. GitHub Pages pasirink įkeltą šaką ir root aplanką.
+
+Duomenys saugomi tik tavo naršyklėje. Prieš išvalydamas naršyklės duomenis ar keisdamas kompiuterį spausk Export backup. Slaptažodžių čia nelaikyk.
+
+13 logikos testų praėjo. Tikra naršyklės sąveikos ir vaizdo patikra dar neatlikta; prieš viešinant pereik docs/manual-checklist.md.
+
+Projektas dar neįkeltas į tavo GitHub — ZIP yra paruoštas įkėlimui.
