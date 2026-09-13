@@ -75,4 +75,6 @@ server.cjs             Optional local development server
 tests/core.test.cjs    Dependency-free Node tests
 ```
 
-An AI-assisted portfolio experiment by VIL / sqlmapmeow. Review and adapt the code as you build on it.
+<div align="center">
+  <sub>SiteSentry · sqlmapmeow</sub>
+</div>
