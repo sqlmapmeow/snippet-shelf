@@ -49,20 +49,6 @@ npm test
 
 13 Node tests cover exact code preservation, input validation, search, sorting, additive imports, ID collisions, storage conflicts and write failures. These tests pass. Automated browser layout and interaction tests have not been run in the build environment. See `docs/manual-checklist.md` for browser checks before publishing.
 
-## Publish on GitHub Pages
-
-1. Create a public repository named `snippet-shelf` on your GitHub account.
-2. Upload the **contents** of this folder so `index.html` is in the repository root.
-3. Enable GitHub Pages for the branch and root folder you uploaded.
-4. After deployment succeeds, add the resulting website URL to the repository About section.
-5. Pin the repository on your profile if you want to feature it alongside JSON Desk.
-
-Suggested repository description:
-
-> A local-first code snippet library. Search, organize and back up reusable code. Vanilla JavaScript, zero runtime dependencies.
-
-Suggested topics: `javascript`, `developer-tools`, `snippets`, `local-first`, `github-pages`.
-
 ## Project structure
 
 ```text
